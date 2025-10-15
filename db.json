@@ -1,0 +1,453 @@
+{
+  "all-resumes": [
+    {
+      "id": "a777",
+      "professionalData": {
+        "name": "Max",
+        "JobTitle": "ss",
+        "location": "ss",
+        "email": "max@gmail.com",
+        "phone": "0987654321",
+        "github": "max@gmail.com",
+        "linkedin": "max@gmail.com",
+        "portfolio": "max@gmail.com"
+      },
+      "educationData": {
+        "course": "bsc",
+        "college": "college",
+        "university": "uni",
+        "year": "2002"
+      },
+      "experience": {
+        "jobRole": "web",
+        "company": "no",
+        "jobLoc": "loc",
+        "duration": "2"
+      },
+      "skill": [
+        "HTML",
+        "CSS"
+      ],
+      "summary": "summary"
+    },
+    {
+      "id": "f472",
+      "professionalData": {
+        "name": "sdsadsadsahhh",
+        "JobTitle": "asdas",
+        "location": "sad",
+        "email": "max@gmail.com",
+        "phone": "2332",
+        "github": "ad",
+        "linkedin": "sadasd",
+        "portfolio": "sad"
+      },
+      "educationData": {
+        "course": "asdasd",
+        "college": "d",
+        "university": "asd",
+        "year": "ds"
+      },
+      "experience": {
+        "jobRole": "asdsd",
+        "company": "sds",
+        "jobLoc": "ds",
+        "duration": "s"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "jhsajd"
+    },
+    {
+      "id": "a9d6",
+      "professionalData": {
+        "name": "Max",
+        "JobTitle": "web",
+        "location": "kochi",
+        "email": "max@gmail.com",
+        "phone": "909",
+        "github": "jj",
+        "linkedin": "jj",
+        "portfolio": "jj"
+      },
+      "educationData": {
+        "course": "course",
+        "college": "asa",
+        "university": "as",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "ss",
+        "company": "as",
+        "jobLoc": "as",
+        "duration": "as"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "asdasd"
+    },
+    {
+      "id": "44be",
+      "professionalData": {
+        "name": "Max",
+        "JobTitle": "web",
+        "location": "kochi",
+        "email": "max@gmail.com",
+        "phone": "909",
+        "github": "jj",
+        "linkedin": "jj",
+        "portfolio": "jj"
+      },
+      "educationData": {
+        "course": "course",
+        "college": "asa",
+        "university": "as",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "ss",
+        "company": "as",
+        "jobLoc": "as",
+        "duration": "as"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "asdasd"
+    },
+    {
+      "id": "b2bb",
+      "professionalData": {
+        "name": "asd",
+        "JobTitle": "asd",
+        "location": "sad",
+        "email": "asdas",
+        "phone": "sa",
+        "github": "a",
+        "linkedin": "a",
+        "portfolio": "a"
+      },
+      "educationData": {
+        "course": "a",
+        "college": "a",
+        "university": "a",
+        "year": "a"
+      },
+      "experience": {
+        "jobRole": "a",
+        "company": "aa",
+        "jobLoc": "a",
+        "duration": "a"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "sadasdsadasd"
+    },
+    {
+      "id": "4dab",
+      "professionalData": {
+        "name": "sad",
+        "JobTitle": "asd",
+        "location": "asd",
+        "email": "s",
+        "phone": "s",
+        "github": "s",
+        "linkedin": "s",
+        "portfolio": "s"
+      },
+      "educationData": {
+        "course": "ss",
+        "college": "s",
+        "university": "s",
+        "year": "s"
+      },
+      "experience": {
+        "jobRole": "s",
+        "company": "s",
+        "jobLoc": "s",
+        "duration": "s"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "sasaas"
+    },
+    {
+      "id": "11e0",
+      "professionalData": {
+        "name": "s",
+        "JobTitle": "s",
+        "location": "s",
+        "email": "s",
+        "phone": "s",
+        "github": "ss",
+        "linkedin": "s",
+        "portfolio": "s"
+      },
+      "educationData": {
+        "course": "s",
+        "college": "s",
+        "university": "s",
+        "year": "s"
+      },
+      "experience": {
+        "jobRole": "s",
+        "company": "s",
+        "jobLoc": "s",
+        "duration": "s"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "sadasdsad"
+    },
+    {
+      "id": "62e0",
+      "professionalData": {
+        "name": "Exo",
+        "JobTitle": "Full stack",
+        "location": "kochi",
+        "email": "exo@gmail.com",
+        "phone": "9087665432",
+        "github": "asdasd",
+        "linkedin": "sad",
+        "portfolio": "dsa"
+      },
+      "educationData": {
+        "course": "course",
+        "college": "college",
+        "university": "uni",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "intern",
+        "company": "company",
+        "jobLoc": "kochi",
+        "duration": "2"
+      },
+      "skill": [
+        "HTML",
+        "CSS"
+      ],
+      "summary": "asdsdasdasd"
+    },
+    {
+      "id": "efe2",
+      "professionalData": {
+        "name": "axe",
+        "JobTitle": "full stack",
+        "location": "kochi",
+        "email": "exo@gmail.com",
+        "phone": "9087654321",
+        "github": "sad",
+        "linkedin": "sad",
+        "portfolio": "sad"
+      },
+      "educationData": {
+        "course": "c",
+        "college": "c",
+        "university": "u",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "j",
+        "company": "c",
+        "jobLoc": "ko",
+        "duration": "2"
+      },
+      "skill": [
+        "CSS"
+      ],
+      "summary": "sdasdasdasdasd"
+    },
+    {
+      "id": "0157",
+      "professionalData": {
+        "name": "xa",
+        "JobTitle": "sad",
+        "location": "sad",
+        "email": "max@gmail.com",
+        "phone": "3",
+        "github": "sad",
+        "linkedin": "dsa",
+        "portfolio": "ds"
+      },
+      "educationData": {
+        "course": "dsa",
+        "college": "dasd",
+        "university": "sad",
+        "year": "sad"
+      },
+      "experience": {
+        "jobRole": "asd",
+        "company": "ds",
+        "jobLoc": "ads",
+        "duration": "sda"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "asdasdad"
+    },
+    {
+      "id": "4527",
+      "professionalData": {
+        "name": "fd",
+        "JobTitle": "df",
+        "location": "fd",
+        "email": "fd",
+        "phone": "fd",
+        "github": "fd",
+        "linkedin": "df",
+        "portfolio": "fd"
+      },
+      "educationData": {
+        "course": "dff",
+        "college": "fd",
+        "university": "fd",
+        "year": "fd"
+      },
+      "experience": {
+        "jobRole": "fd",
+        "company": "fd",
+        "jobLoc": "fd",
+        "duration": "fd"
+      },
+      "skill": [
+        "NodeJS"
+      ],
+      "summary": "fddfdfdfdf"
+    },
+    {
+      "id": "c3ed",
+      "professionalData": {
+        "name": "axe",
+        "JobTitle": "v",
+        "location": "b",
+        "email": "n",
+        "phone": "n",
+        "github": "m",
+        "linkedin": "m",
+        "portfolio": "m"
+      },
+      "educationData": {
+        "course": "n",
+        "college": "m",
+        "university": "m",
+        "year": "m"
+      },
+      "experience": {
+        "jobRole": "n",
+        "company": "m",
+        "jobLoc": ",",
+        "duration": "m"
+      },
+      "skill": [
+        "HTML"
+      ],
+      "summary": "gfghfhgfh"
+    },
+    {
+      "id": "196a",
+      "professionalData": {
+        "name": "John",
+        "JobTitle": "Web developer",
+        "location": "Kochi",
+        "email": "john@gmail.com",
+        "phone": "9087654312",
+        "github": "john@github.com",
+        "linkedin": "john@linkedin.com",
+        "portfolio": "john@profile.com"
+      },
+      "educationData": {
+        "course": "CS",
+        "college": "College",
+        "university": "Abc University",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "Mearn",
+        "company": "company",
+        "jobLoc": "ekm",
+        "duration": "3"
+      },
+      "skill": [
+        [
+          [
+            [
+              null,
+              "MongoDB"
+            ]
+          ]
+        ]
+      ],
+      "summary": "saddfsaddgdgafsgsdgsdgdsgdgdsgsdgsdgsdgdsgdgdsg"
+    },
+    {
+      "id": "01d0",
+      "professionalData": {
+        "name": "Max",
+        "JobTitle": "Sales",
+        "location": "kochi",
+        "email": "max@gmail.com",
+        "phone": "9087654312",
+        "github": "max@github.com",
+        "linkedin": "max@github.com",
+        "portfolio": "max@github.com"
+      },
+      "educationData": {
+        "course": "Sales",
+        "college": "College",
+        "university": "Abc University",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "sales exec",
+        "company": "company",
+        "jobLoc": "ekm",
+        "duration": "3"
+      },
+      "skill": [
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "summary": "sadasdsadd"
+    },
+    {
+      "id": "91df",
+      "professionalData": {
+        "name": "Jacob Mathen",
+        "JobTitle": "React Developer",
+        "location": "Kochi",
+        "email": "jacob.mathen.official@gmail.com",
+        "phone": "9562969197",
+        "github": "github.com/jacobmathen",
+        "linkedin": "linked.com/jacobmathen",
+        "portfolio": "instagram.com/jacobmathen"
+      },
+      "educationData": {
+        "course": "BCA",
+        "college": "Chinmaya College of Arts, Commerce and Science",
+        "university": "MGU",
+        "year": "2023"
+      },
+      "experience": {
+        "jobRole": "React Developer",
+        "company": "Mango Media",
+        "jobLoc": "Kochi",
+        "duration": "9 hrs"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "REACT"
+      ],
+      "summary": "Hi I am a seasonal developer looking for suitable oppurtunities"
+    }
+  ]
+}
